@@ -1,0 +1,116 @@
+id: 917410290a3d40d1b1369ea4d3feca83
+annotation_type: tsawa
+revision: '00001'
+annotations:
+- id: c12024cf9abe4392b8e6ad852531928a
+  span:
+    start: 2944
+    end: 3085
+- id: 400230aa7149410e862d05afbb716ec6
+  span:
+    start: 5681
+    end: 5985
+- id: c92a68838c7c4dce8f0e5b6bfbced4c5
+  span:
+    start: 7788
+    end: 7924
+- id: d278bae826994db3a2be8c976ccd5e5e
+  span:
+    start: 7948
+    end: 8079
+- id: 4d3165316bd148888ff814cdf2a2a285
+  span:
+    start: 8430
+    end: 8480
+- id: 0ec6110ffde64dd1b5b55fb674aea7da
+  span:
+    start: 16343
+    end: 16560
+- id: be9e76e8469349d6acb5d29e82e8a795
+  span:
+    start: 18103
+    end: 18342
+- id: 9bb5fb4074c64b47b1bbfb3347515eda
+  span:
+    start: 19666
+    end: 19868
+- id: 62aac43bae2f434cae3fbd8bd49ffc4f
+  span:
+    start: 22899
+    end: 23157
+- id: 557ae538fddd401ba9108c8b2c84c8f7
+  span:
+    start: 29264
+    end: 29391
+- id: bb040babfa654c788febc4c2be44d7c5
+  span:
+    start: 51142
+    end: 51355
+- id: 76441394e67c4a53817bf843056185c0
+  span:
+    start: 54395
+    end: 54606
+- id: 82cbe4a76b4d4bec8d8b975a69c098a6
+  span:
+    start: 57575
+    end: 57664
+- id: f19c072457cd41e0a5b1f6d4d5881eda
+  span:
+    start: 75109
+    end: 75220
+- id: e10740b343bb40b1997cbd0adcbbbc91
+  span:
+    start: 81169
+    end: 81232
+- id: 923be8d91aa24e6a9c483de5815fdf62
+  span:
+    start: 84754
+    end: 84862
+- id: 103180c96e0d49d9b0c37d3ec0ba9c31
+  span:
+    start: 85182
+    end: 85260
+- id: 2ff82c37c75146479860cbc01d7b206f
+  span:
+    start: 94522
+    end: 94617
+- id: 588419b139994a49b6c6a7fbf8f72d68
+  span:
+    start: 95113
+    end: 95382
+- id: 201413ac474f4984afe78bb9b1ffcb42
+  span:
+    start: 101967
+    end: 102043
+- id: 587c3a7cf05f4a49bbf23ffbd48f5448
+  span:
+    start: 107171
+    end: 107300
+- id: cdcdb307bd754846aa22133c85400062
+  span:
+    start: 112763
+    end: 112868
+- id: 3984ee865a224e6f9e66573a69edf517
+  span:
+    start: 120180
+    end: 120318
+- id: 67f6ccfc5c004df2a831eedef86afc3a
+  span:
+    start: 132691
+    end: 132746
+- id: 0ecbf9ba530d4406b2b5aa489cbd2bbf
+  span:
+    start: 133237
+    end: 133308
+- id: 2cacb98df1e34b5495e482975b463744
+  span:
+    start: 134544
+    end: 134626
+- id: 85f7cd48c7ed43d18a08052ac1fe2bd1
+  span:
+    start: 150267
+    end: 150371
+- id: 6fd7a65a5cd24118b07d2e5e005921ce
+  span:
+    start: 154475
+    end: 154589
