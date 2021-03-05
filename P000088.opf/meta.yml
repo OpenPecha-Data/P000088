@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000088
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྒྱུ་འབྲས་རྐྱེན་གསུམ་གྱི་དཀའ་འགྲེལ་བློ་གསལ་མིག་འབྱེད་ཅེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། མང་ཐོས་ཀླུ་སྒྲུབ་རྒྱ་མཚོ།
-  sku: IBA-LG-02-1
   layers:
   - book_title
   - author
   - quotation
+  id: IBA-LG-02-1
 web_metadata:
   title:
     en: Opening the Eye to Clear Understanding:A Clarification on Causes, Results,
